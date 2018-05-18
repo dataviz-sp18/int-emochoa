@@ -1,6 +1,6 @@
 Dashboard Write-up
 ================
-Erin M. Ochoa
+Erin M. Ochoa<br>
 2018 May 18
 
 <p align="justify">

@@ -1,6 +1,6 @@
 ---
 title: "Dashboard Write-up"
-author: "Erin M. Ochoa"
+author: "Erin M. Ochoa<br>"
 date: "2018 May 18"
 class: 'Data Visualization'
 professor: 'Dr. Soltoff'
